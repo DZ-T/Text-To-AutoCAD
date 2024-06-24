@@ -4,6 +4,8 @@
 
 txt2ac is a plugin for AutoCAD that facilitates the importing of points from a text file into the AutoCAD drawing environment. This plugin simplifies the process of bringing coordinate data from external sources directly into your AutoCAD drawings, enhancing productivity and accuracy in CAD workflows.
 
+![app](/Example/txt2ac.png)
+
 ## Features
 
 - **Import Points**: Load points defined in a structured text file (CSV, TSV) into AutoCAD as drawing entities.
@@ -12,7 +14,7 @@ txt2ac is a plugin for AutoCAD that facilitates the importing of points from a t
 
 ## Installation
 
-1. **Download**: Obtain the latest release of txt2ac plugin from the [Releases](https://github.com/DZ-T/txt2ac/releases) page.
+1. **Download**: Obtain the latest release of txt2ac plugin from the [Releases](https://github.com/DZ-T/Text-To-AutoCAD/releases/) page.
 2. **Installation**: 
    - Copy `txt2ac.dll` to a directory on your computer.
    - In AutoCAD, use the `NETLOAD` command to load `txt2ac.dll` into the AutoCAD environment.
@@ -47,4 +49,4 @@ Contributions are welcome! If you have any improvements or new features to add, 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Support
-For any questions, issues, or feedback, please [open an issue](link-to-issues) here on GitHub.
+For any questions, issues, or feedback, please [open an issue](https://github.com/DZ-T/Text-To-AutoCAD/issues) here on GitHub.
