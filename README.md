@@ -37,7 +37,11 @@ txt2ac is a plugin for AutoCAD that facilitates the importing of points from a t
    - Confirm successful import of points via messages in plugin interface.
 
 ## Example Input File
-![example of input file](/Example/image.png)
+You can view / try this file : [example txt file](/Example/exampleofinputfile.txt)
+
+![example](/Example/inputfile.png)
+
+
 
 ## Compatibility
 - Compatible with AutoCAD versions: AutoCAD 2018 and later.
